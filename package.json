@@ -2,7 +2,7 @@
   "name": "nft-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sanketbhandari.github.io",
+  "homepage": "https://sanketbhandari.github.io/nft-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
