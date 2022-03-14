@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c41361cc.css",
-    "main.js": "/static/js/main.28250da1.js",
-    "static/js/787.095bd504.chunk.js": "/static/js/787.095bd504.chunk.js",
-    "static/media/weth.png": "/static/media/weth.4101f1dacb92484cfd3f.png",
-    "static/media/nft.png": "/static/media/nft.2a4825ff5f00a6655463.png",
-    "index.html": "/index.html",
-    "main.c41361cc.css.map": "/static/css/main.c41361cc.css.map",
-    "main.28250da1.js.map": "/static/js/main.28250da1.js.map",
-    "787.095bd504.chunk.js.map": "/static/js/787.095bd504.chunk.js.map"
+    "main.css": "/nft-project/static/css/main.c41361cc.css",
+    "main.js": "/nft-project/static/js/main.ac7378eb.js",
+    "static/js/787.095bd504.chunk.js": "/nft-project/static/js/787.095bd504.chunk.js",
+    "static/media/weth.png": "/nft-project/static/media/weth.4101f1dacb92484cfd3f.png",
+    "static/media/nft.png": "/nft-project/static/media/nft.2a4825ff5f00a6655463.png",
+    "index.html": "/nft-project/index.html",
+    "main.c41361cc.css.map": "/nft-project/static/css/main.c41361cc.css.map",
+    "main.ac7378eb.js.map": "/nft-project/static/js/main.ac7378eb.js.map",
+    "787.095bd504.chunk.js.map": "/nft-project/static/js/787.095bd504.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c41361cc.css",
-    "static/js/main.28250da1.js"
+    "static/js/main.ac7378eb.js"
   ]
 }
